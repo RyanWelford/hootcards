@@ -1,0 +1,14 @@
+[
+  {
+    "name": "userPacks",
+    "path": "/userPacks",
+    "component": "/Users/ryanwelford/Documents/Projects/HootCards/hootcards/pages/userPacks.vue",
+    "chunkName": "pages/userPacks"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/ryanwelford/Documents/Projects/HootCards/hootcards/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
